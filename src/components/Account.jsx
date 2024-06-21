@@ -6,7 +6,7 @@ import Title from "./Title";
 const data = [
   {
     name: "Crypto",
-    account: "codewave@gmail.com",
+    account: "akash19g245@gmail.com",
     amount: "85,345.00",
     icon: (
       <div className="w-12 h-12 bg-amber-600 text-white flex items-center justify-center rounded-full">
@@ -36,7 +36,7 @@ const data = [
   },
   {
     name: "Paypal",
-    account: "codewave@gmail.com",
+    account: "akash19g245@gmail.com",
     amount: "35,345.00",
     icon: (
       <div className="w-12 h-12 bg-blue-700 text-white flex items-center justify-center rounded-full">
